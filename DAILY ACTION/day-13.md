@@ -1,0 +1,16 @@
+# Day 13 - QA Journal
+
+## What I Learned
+...
+
+## Key Concepts
+...
+
+## Example
+...
+
+## Notes
+...
+
+## Tomorrow
+...

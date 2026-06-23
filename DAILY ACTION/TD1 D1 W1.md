@@ -1,0 +1,23 @@
+# TD1 D1 W1 - QA DAILY Journal 22JUNE26'
+
+PRESCHEDULED
+4H COMMIT GIT+GITHUB YOUTUBE COURSES
+1H PYTHON COMMIT
+
+FINAL ACTION FIRST OFFICIAL PUSH TO GITHUB
+PRESCHEDULE TD2
+ 
+## What I Learned
+...
+
+## Key Concepts
+...
+
+## Example
+...
+
+## Notes
+...
+
+## Tomorrow
+...

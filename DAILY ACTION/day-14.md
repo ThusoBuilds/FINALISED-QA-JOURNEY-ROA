@@ -1,0 +1,16 @@
+# Day 14 - QA Journal
+
+## What I Learned
+...
+
+## Key Concepts
+...
+
+## Example
+...
+
+## Notes
+...
+
+## Tomorrow
+...

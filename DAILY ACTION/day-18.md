@@ -1,0 +1,16 @@
+# Day 18 - QA Journal
+
+## What I Learned
+...
+
+## Key Concepts
+...
+
+## Example
+...
+
+## Notes
+...
+
+## Tomorrow
+...
