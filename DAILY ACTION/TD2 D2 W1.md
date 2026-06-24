@@ -1,6 +1,6 @@
 # TD2 D2 W1 - QA Journal 24 JUNE 26'
 
-## What I Learned
+## What I Learned 
 1. HOW TO GIT ADD .-MEANING YOU BRING THE CODE TO STAGING AREA""
 
 BASIC GIT WORKFLOWS
