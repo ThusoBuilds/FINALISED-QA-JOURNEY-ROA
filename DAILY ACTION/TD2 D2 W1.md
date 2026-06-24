@@ -1,0 +1,19 @@
+# Day 30 - QA Journal
+
+## What I Learned
+1. HOW TO GIT ADD .-MEANING YOU BRING THE CODE TO STAGING AREA""
+
+
+
+## Key Concepts
+GIT-BASICALLY STORAGE AND VERSION CONTROL
+GITHUB-ONLINE STORAGE +COLLABORATION TOOLS
+
+## Example
+...
+
+## Notes
+...
+
+## Tomorrow
+...
