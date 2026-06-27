@@ -1,26 +1,31 @@
-# TD1 D1 W1 - QA DAILY Journal 22JUNE26'
+# TD1 D1 W1 - DAILY WORK FLOW          DATE:
 
-PRESCHEDULED
-COMMIT COMMAND 
-GIT+GITHUB 
-YOUTUBE COURSES
- PYTHON
- PUSH COMMAND
-
-FINAL ACTION FIRST OFFICIAL PUSH TO GITHUB
-PRESCHEDULE TD2
- 
+PRESCHEDULED BY TO DO LIST
+-
+-
+-
+-
+-
 ## What I Learned
-...
+-
+-
+-
+-
+-
+-
+-
 
-## Key Concepts
-...
+## The Days Key Concepts
+-
+-
+-
+-
+-
+-
 
-## Example
-...
 
-## Notes
-...
+## Summary Notes
+-
+-
+-
 
-## Tomorrow
-...
