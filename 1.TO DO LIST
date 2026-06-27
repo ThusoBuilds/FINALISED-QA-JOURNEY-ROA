@@ -8,25 +8,53 @@ PRESCHEDULING
 
 TO DO LIST
                                                                 STATUS
-1. GIT-GITHUB FUNDAMENTALS                                    IN PROGRESS
-2. HTML&CSS BASICS
-3. MANUAL TESTING FUNDAMENTALS
-4. BUG REPORTING
-5. TEST CASE DESIGN  
-6. JIRA
-7. WEB BASICS: HTTP,REST,STATUS CODES
-8. API BASICS
-9. POSTMAN
-10. SQL
-11. ISTQB CERTIFICATION 
-12. SCRUM FUNDEMENTALS
-13. GITHUB DOCUMENTAION/ PORTFOLIO
-14. SAMPLE TEST CASES
-15. PYTHON-FCC                        1H/D ONGOING LEARNING     IN PROGRES
-16. PLAYWRIGHT
-17. GITHUB ACTIONS
+▼ Layer 1: Understanding Software & QA Role
 
-Week 1 21/06/2026-27/06/2026: Foundations
+Software fundamentals
+Types of applications (Web, Mobile, Desktop)
+Client–Server Architecture
+Frontend vs Backend
+SDLC (Software Development Life Cycle)
+STLC (Software Testing Life Cycle)
+QA Roles & Responsibilities
+Exploratory Testing
+GitHub Basics
+
+▼ Layer 2: Manual Testing & Team Workflow
+
+Manual Testing Fundamentals
+Test Cases & Test Scenarios
+Bug Reporting
+Types of Testing
+Test Design Techniques
+Jira
+Agile & Scrum
+ISTQB Foundation
+
+▼ Layer 3: Technical Testing Skills
+
+SQL
+API Testing
+REST / JSON / HTTP
+Postman
+HTML & CSS
+JavaScript
+DOM & Chrome DevTools
+Async/Await
+Node.js
+Git & GitHub
+
+▼ Layer 4: Automation, Portfolio & Employment
+
+Playwright (JavaScript)
+TypeScript Basics
+Page Object Model (POM)
+Automation Framework Design
+CI/CD
+GitHub Actions
+Portfolio Projects
+Interview Preparation
+Job Applications
 
 
 
